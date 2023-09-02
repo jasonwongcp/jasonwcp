@@ -37,6 +37,6 @@ Here are some of my notable projects:
 
 Feel free to explore my repositories to learn more about my projects and contributions!
 
-📫 You can reach out to me at [your.email@example.com](mailto:your.email@example.com).
+📫 You can reach out to me at www.linkedin.com/in/jasonwcp
 
 Let's connect and collaborate on exciting data science projects!
