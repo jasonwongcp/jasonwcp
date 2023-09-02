@@ -13,8 +13,8 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - **Data Analysis Libraries:** NumPy, Pandas, SciPy
 - **Visualization Tools:** Tableau, Matplotlib, Plotly, Seaborn
 - **Statistical Analysis:** Hypothesis Testing, A/B tests, Parametric and non-Parametric tests
-- **Machine Learning Frameworks:** TensorFlow, Scikit-learn, XGBoost, PyTorch
-- **Big Data Technologies:** AWS, Hadoop, Spark, Hive, Docker
+- **Machine Learning Frameworks:** Scikit-learn, XGBoost
+- **Big Data Technologies:** AWS, Hadoop, Spark
 
 ## 📊 Projects
 
