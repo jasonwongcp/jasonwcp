@@ -7,7 +7,7 @@ I hold a PhD in Virology and have a deep passion for merging the realms of life 
 
 Let's collaborate and innovate together in the fascinating world of health science and data!
 
-## 👩‍💻 Skills
+## 💻  Skills
 
 - **Programming Languages:** Python, R, SQL
 - **Data Analysis Libraries:** NumPy, Pandas, SciPy
