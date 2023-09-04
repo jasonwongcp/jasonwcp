@@ -30,7 +30,7 @@ Let's collaborate and innovate together in the fascinating world of health scien
 <img src="/pairwise%20correlation.png" alt="pairwise correlation" width="500"/>
 
 
-### Data Scientist | [Sentiment Analysis on Hotel Reviews](https://github.com/jasonwongcp/Sentiment-Analysis-on-Hotel-Reviews) 🏨 ###
+### Data Scientist | [Sentiment Analysis on Hotel Reviews](https://github.com/jasonwongcp/Sentiment-Analysis-on-Hotel-Reviews-) 🏨 ###
 
 ***JULY 2023***
 - Implemented topic modeling and sentiment analysis for user reviews.
