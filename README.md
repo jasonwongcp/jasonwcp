@@ -38,6 +38,8 @@ Let's collaborate and innovate together in the fascinating world of health scien
    - GitHub Repository: [Link to the GitHub repository](link)
      
 ### Data Scientist | [Trend Analysis and Visualization of Bixi Bike Usage](https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage) 🚲 ###
+
+***JUN 2023***
 - Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviours in Bixi bike usage.
 - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
