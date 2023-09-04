@@ -20,11 +20,11 @@ Let's collaborate and innovate together in the fascinating world of health scien
 
 ### Data Scientist | [Diabetes risk prediction using machine learning approaches](https://github.com/jasonwongcp/Diabetes-Prediction/blob/main/README.md) ###
 
-*** AUG 2023 ***
+***AUG 2023***
 - Implemented data cleaning and preprocessing on an extensive dataset that contains patient data.
 - Explored relationships and insights of patient data using Exploratory Data Analysis.
-- Developed and deployed machine learning models, including Logistic Regression, Decision Tree, and Random Forest, which are accurately predicting the risk of developing diabetes based on readily available health datasets.
-- By leveraging data-driven insights, this project contributes to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively.
+- Developed and deployed machine learning models, including Logistic Regression, Decision Tree, and Random Forest, which accurately predict the risk of developing diabetes based on readily available health datasets.
+- Contributed to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively by leveraging data-driven insights.
 - Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy, Kaggle
 
 ### Project Name 2 ###
@@ -36,6 +36,12 @@ Let's collaborate and innovate together in the fascinating world of health scien
    - Description: Brief description of the project.
    - Technologies: List the technologies and tools used.
    - GitHub Repository: [Link to the GitHub repository](link)
+     
+### Data Scientist | [Trend Analysis and Visualization of Bixi Bike Usage](https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage) 🚲 ###
+- Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviours in Bixi bike usage.
+- Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
+- Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
+- Technologies: List the technologies and tools used.
 
 Feel free to explore my repositories to learn more about my projects and contributions!
 
