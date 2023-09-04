@@ -20,32 +20,39 @@ Let's collaborate and innovate together in the fascinating world of health scien
 
 ### Data Scientist | [Diabetes risk prediction using machine learning approaches](https://github.com/jasonwongcp/Diabetes-Prediction/blob/main/README.md) ###
 
-***AUG 2023***
+***AUGUST 2023***
 - Implemented data cleaning and preprocessing on an extensive dataset that contains patient data.
 - Explored relationships and insights of patient data using Exploratory Data Analysis.
 - Developed and deployed machine learning models, including Logistic Regression, Decision Tree, and Random Forest, which accurately predict the risk of developing diabetes based on readily available health datasets.
 - Contributed to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively by leveraging data-driven insights.
 - Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy, Kaggle
 
+<img src="/pairwise%20corelation.png" alt="pairwise correlation" width="400"/>
+
+
 ### Project Name 2 ###
    - Description: Brief description of the project.
    - Technologies: List the technologies and tools used.
    - GitHub Repository: [Link to the GitHub repository](link)
 
-### Project Name 3 ###
-   - Description: Brief description of the project.
-   - Technologies: List the technologies and tools used.
-   - GitHub Repository: [Link to the GitHub repository](link)
+### Data Scientist | [Predictive Analysis of West Nile Virus Spread ](https://github.com/jasonwongcp/Predictive-Analysis-of-West-Nile-Virus-Spread) 🦟 ###
+
+***JULY 2023***
+- Employed ETL processes to prepare mosquito tracking data for analysis.
+- Leveraged statistical knowledge to analyze West Nile Virus spread through extensive exploratory data analysis.
+- Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
+- Implemented regression predictive modeling to understand mosquito tracking data.
+- Technologies: Python, NumPy, Pandas, SciPy, Hypothesis Testing, A/B tests, Parametric and non-Parametric tests
      
 ### Data Scientist | [Trend Analysis and Visualization of Bixi Bike Usage](https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage) 🚲 ###
 
-***JUN 2023***
+***JUNE 2023***
 - Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviours in Bixi bike usage.
 - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
 - Technologies: MySQL, Tableau
   
-<img src="https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage/blob/main/Tableau%20Dashboard.png" alt="Dahsboard" width="800"/>
+<img src="https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage/blob/main/Tableau%20Dashboard.png" alt="Dahsboard" width="400"/>
 
 
 Feel free to explore my repositories to learn more about my projects and contributions!
