@@ -52,7 +52,7 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
 - Technologies: MySQL, Tableau
   
-<img src="https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage/blob/main/Tableau%20Dashboard.png" alt="Dahsboard" width="400"/>
+<img src="https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage/blob/main/Tableau%20Dashboard.png" alt="Dahsboard" width="600" height= "400"/>
 
 
 Feel free to explore my repositories to learn more about my projects and contributions!
