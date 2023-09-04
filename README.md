@@ -27,7 +27,7 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - Contributed to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively by leveraging data-driven insights.
 - Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy, Kaggle
 
-<img src="/pairwise%20correlation.png" alt="pairwise correlation" width="400"/>
+<img src="/pairwise%20correlation.png" alt="pairwise correlation" width="500"/>
 
 
 ### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨 ###
@@ -38,6 +38,8 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - Employed classification models to gain insights into user behaviour.
 - Improved conversion rate by understanding customer sentiments.
 
+<img src="/Top%2020%20positive%20words.png" alt="Top 20 positive words" width="500"/>
+
 ### Data Scientist | [Predictive Analysis of West Nile Virus Spread ](https://github.com/jasonwongcp/Predictive-Analysis-of-West-Nile-Virus-Spread) 🦟 ###
 
 ***JULY 2023***
@@ -47,7 +49,7 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - Implemented regression predictive modeling to understand mosquito tracking data.
 - Technologies: Python, NumPy, Pandas, SciPy, Hypothesis Testing, A/B tests, Parametric and non-Parametric tests
 
-<img src="/%20OLS%20Regression%20Results.jpeg" alt="OLS Regression Results" width="400"/>
+<img src="/%20OLS%20Regression%20Results.jpeg" alt="OLS Regression Results" width="500"/>
      
 ### Data Scientist | [Trend Analysis and Visualization of Bixi Bike Usage](https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage) 🚲 ###
 
