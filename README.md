@@ -43,6 +43,8 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - Utilized visualizations in Python and conducted hypothesis and correlation testing (t-test, Chi-square test).
 - Implemented regression predictive modeling to understand mosquito tracking data.
 - Technologies: Python, NumPy, Pandas, SciPy, Hypothesis Testing, A/B tests, Parametric and non-Parametric tests
+
+<img src="/%20OLS%20Regression%20Results.jpeg" alt="OLS Regression Results" width="400"/>
      
 ### Data Scientist | [Trend Analysis and Visualization of Bixi Bike Usage](https://github.com/jasonwongcp/Trend_Analysis_and_Visualization_of_Bixi_Bike_Usage) 🚲 ###
 
