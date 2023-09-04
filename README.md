@@ -22,8 +22,8 @@ Here are some of my notable projects:
 
 1. **Diabetes risk prediction using machine learning approaches**
    - Description: The project aims to develop and deploy machine learning models capable of accurately predicting the risk of developing diabetes based on readily available health datasets. By leveraging data-driven insights, this project contributes to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively.
-   - Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy,Kaggle
-   - GitHub Repository: [Link to the GitHub repository](link)
+   - Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy, Kaggle
+   - GitHub Repository: [Link to the GitHub repository](Diabetes_Prediction/README.md)
 
 2. **Project Name 2**
    - Description: Brief description of the project.
