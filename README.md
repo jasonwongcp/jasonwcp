@@ -9,7 +9,7 @@ Let's collaborate and innovate together in the fascinating world of health scien
 
 ## 💻  Skills
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, R, MySQL
 - **Data Analysis Libraries:** NumPy, Pandas, SciPy
 - **Visualization Tools:** Tableau, Matplotlib, Plotly, Seaborn
 - **Statistical Analysis:** Hypothesis Testing, A/B tests, Parametric and non-Parametric tests
@@ -41,7 +41,7 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - Integrated in-depth data analysis, interactive Tableau visualizations, and proficient SQL querying for exploratory analysis to reveal trends and behaviours in Bixi bike usage.
 - Crafted an insightful visualization dashboard with drill-down capabilities to accommodate data inquiries.
 - Reported findings and insights effectively through professional documentation that merged data-driven insights with robust visualization techniques.
-- Technologies: List the technologies and tools used.
+- Technologies: MySQL, Tableau
 
 Feel free to explore my repositories to learn more about my projects and contributions!
 
