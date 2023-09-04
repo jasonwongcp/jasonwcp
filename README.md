@@ -30,10 +30,13 @@ Let's collaborate and innovate together in the fascinating world of health scien
 <img src="/pairwise%20correlation.png" alt="pairwise correlation" width="400"/>
 
 
-### Project Name 2 ###
-   - Description: Brief description of the project.
-   - Technologies: List the technologies and tools used.
-   - GitHub Repository: [Link to the GitHub repository](link)
+### Data Scientist | Sentiment Analysis on Hotel Reviews 🏨 ###
+
+***JULY 2023***
+- Implemented topic modeling and sentiment analysis for user reviews.
+- Focused on feature engineering and natural language processing techniques.
+- Employed classification models to gain insights into user behaviour.
+- Improved conversion rate by understanding customer sentiments.
 
 ### Data Scientist | [Predictive Analysis of West Nile Virus Spread ](https://github.com/jasonwongcp/Predictive-Analysis-of-West-Nile-Virus-Spread) 🦟 ###
 
