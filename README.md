@@ -27,7 +27,7 @@ Let's collaborate and innovate together in the fascinating world of health scien
 - Contributed to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively by leveraging data-driven insights.
 - Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy, Kaggle
 
-<img src="/pairwise%20corelation.png" alt="pairwise correlation" width="400"/>
+<img src="/pairwise%20correlation.png" alt="pairwise correlation" width="400"/>
 
 
 ### Project Name 2 ###
