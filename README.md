@@ -19,8 +19,13 @@ Let's collaborate and innovate together in the fascinating world of health scien
 ## 📊 Projects
 
 ### Data Scientist | [Diabetes risk prediction using machine learning approaches](https://github.com/jasonwongcp/Diabetes-Prediction/blob/main/README.md) ###
-   - Description: The project aims to develop and deploy machine learning models capable of accurately predicting the risk of developing diabetes based on readily available health datasets. By leveraging data-driven insights, this project contributes to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively.
-   - Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy, Kaggle
+
+*** AUG 2023 ***
+- Implemented data cleaning and preprocessing on an extensive dataset that contains patient data.
+- Explored relationships and insights of patient data using Exploratory Data Analysis.
+- Developed and deployed machine learning models, including Logistic Regression, Decision Tree, and Random Forest, which are accurately predicting the risk of developing diabetes based on readily available health datasets.
+- By leveraging data-driven insights, this project contributes to proactive healthcare decision-making and the global effort to manage and prevent diabetes effectively.
+- Technologies: MySQL, Python, Pandas, Anaconda, Jupyter, Markdown, GitHub, NumPy, SciPy, Kaggle
 
 ### Project Name 2 ###
    - Description: Brief description of the project.
